@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suyash R.D.
-- 👑 I'm Founder of GamerNity which is Gaming Social Media. 
-- 📱 I Created and Launched GamerNity using My Smartphone. 
+- 👑 Founder of GamerNity which is Gaming Social Media. 
+- 📱 I was Created and Launched GamerNity using My Smartphone. 
 
 - 📫 You can Reach Me @twitter/emperor_suyash
 
