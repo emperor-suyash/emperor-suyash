@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Suyash R.D.
-- 👑 Founder of GamerNity which is Gaming Social Media. 
-- 📱 I was Created and Launched GamerNity using My Smartphone. 
-
-- 📫 You can Reach Me [@Twitter](https://twitter.com/emperor_suyash) 
+- 👑 Founder of GamerNity (Gaming Social Media).
+- 📫 You can Reach Me [@LinkedIn](https://in.linkedin.com/emperor_suyash), [@Instagram](https://instagram.com/emperor_suyash).
 
 <!---
 emperor-suyash/emperor-suyash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
